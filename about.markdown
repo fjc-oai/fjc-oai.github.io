@@ -1,18 +1,15 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
+My name is Jiacheng Feng. I'm now a engineer at OpenAI working on distributed model training, used to be a engineer manager at Facebook working on distributed systems.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I like debugging and getting to the bottom of the problem. I believe inner happiness comes from self-sacrifice. I want to be part of something big, or at least tried.
 
 
-[jekyll-organization]: https://github.com/jekyll
+
+
+[Email](fmarsf@gmail.com) /
+[Github](https://github.com/fmars/) /
+[Linkedin](https://www.linkedin.com/in/jiacheng-feng-b23710211/)
