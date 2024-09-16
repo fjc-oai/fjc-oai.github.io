@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "On the occasion of my one-year mark at Openai"
+title:  "One-year-mark at Openai"
 date:   2024-09-15 15:51:07 -0700
 categories: thoughts
 ---
