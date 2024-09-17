@@ -52,6 +52,4 @@ Start-up
 
 And lastly, the nice PPUs.
 
-
-
-
+{% include comments.html %}

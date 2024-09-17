@@ -13,3 +13,5 @@ categories: thoughts
   height="1000px"
   style="border: none;"
 ></iframe>
+
+{% include comments.html %}

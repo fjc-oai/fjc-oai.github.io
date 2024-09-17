@@ -23,3 +23,5 @@ Does working on core xxx matter?
 
 * Every project is challenging and impactful in its own ways, e.g. code quality, reliability, performance, etc.
 * What truly counts is what interests you, the sense of, wow this is so cool.
+
+{% include comments.html %}
