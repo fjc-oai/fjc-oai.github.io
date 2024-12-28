@@ -79,5 +79,6 @@ categories: thoughts
 
 
 * Build up expertise in Perf optimization, grow knowledges in kernel, comm, ML codesign
-* Increase involvement in big run workstreams, establish more connections with ML and system folks
+* Observe others more, especially those who excel, to learn from them.
+* Increase involvement in big run workstreams. Build more connection with ML folks.
 * Seek opportunities to own a raw problem, innovate cutting-edge techniques
