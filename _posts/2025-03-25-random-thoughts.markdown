@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mixed random thoughts
+title:  "Random thoughts and mixed feelings"
 date:   2025-03-25 15:51:07 -0700
 categories: thoughts
 ---
